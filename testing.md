@@ -17,3 +17,12 @@
 
 
 TRAVIS CI to test written codes
+
+
+Here are a few links to help you learn more about PHP application testing:
+https://phpunit.de/
+http://www.phpspec.net/docs/introduction.html
+http://behat.org/
+https://leanpub.com/grumpy-phpunit
+https://leanpub.com/grumpy-testing
+http://www.littlehart.net/atthekeyboard/
